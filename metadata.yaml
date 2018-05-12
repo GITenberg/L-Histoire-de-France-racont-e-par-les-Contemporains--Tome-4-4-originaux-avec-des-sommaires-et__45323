@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 45323-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45323#L-Histoire-de-France-racont-e-par-les-Contemporains--Tome-4-4-originaux-avec-des-sommaires-et_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-04-05'
 gutenberg_type: Text
